@@ -33,7 +33,7 @@ eDate = endDate.isoformat().split('T')[0].split('-')
 bgraphname = "bipartite_politics_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
 l = open(DATAPATH+"/links-politics.txt","r")
 v = open(DATAPATH+"/votes-summary.txt","r")
-h = open(PATH+"/CompleteRun/bipartite/"+bgraphname+".txt","w")
+h = open(PATH+"/bipartite/"+bgraphname+".txt","w")
 print "1"
 links = []
 for line in l:
