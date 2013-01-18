@@ -1,0 +1,140 @@
+There were 0 eliminations with a minimum threshold of 2 votes.
+14
+There were 0 eliminations with a minimum threshold of 2 votes.
+28
+There were 0 eliminations with a minimum threshold of 2 votes.
+42
+There were 0 eliminations with a minimum threshold of 2 votes.
+56
+There were 0 eliminations with a minimum threshold of 2 votes.
+70
+There were 0 eliminations with a minimum threshold of 2 votes.
+84
+There were 0 eliminations with a minimum threshold of 2 votes.
+98
+There were 0 eliminations with a minimum threshold of 2 votes.
+112
+There were 0 eliminations with a minimum threshold of 2 votes.
+126
+There were 0 eliminations with a minimum threshold of 2 votes.
+140
+There were 0 eliminations with a minimum threshold of 2 votes.
+154
+There were 0 eliminations with a minimum threshold of 2 votes.
+168
+There were 0 eliminations with a minimum threshold of 2 votes.
+182
+There were 0 eliminations with a minimum threshold of 2 votes.
+196
+There were 0 eliminations with a minimum threshold of 2 votes.
+210
+There were 0 eliminations with a minimum threshold of 2 votes.
+224
+There were 0 eliminations with a minimum threshold of 2 votes.
+238
+There were 0 eliminations with a minimum threshold of 2 votes.
+252
+There were 0 eliminations with a minimum threshold of 2 votes.
+266
+There were 0 eliminations with a minimum threshold of 2 votes.
+280
+There were 0 eliminations with a minimum threshold of 2 votes.
+294
+There were 0 eliminations with a minimum threshold of 2 votes.
+308
+There were 0 eliminations with a minimum threshold of 2 votes.
+322
+There were 0 eliminations with a minimum threshold of 2 votes.
+336
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+350
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+364
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+378
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+392
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+406
+There were 0 eliminations with a minimum threshold of 2 votes.
+420
+There were 0 eliminations with a minimum threshold of 2 votes.
+434
+There were 0 eliminations with a minimum threshold of 2 votes.
+448
+There were 0 eliminations with a minimum threshold of 2 votes.
+462
+There were 0 eliminations with a minimum threshold of 2 votes.
+476
+There were 0 eliminations with a minimum threshold of 2 votes.
+490
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+504
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+518
+Traceback (most recent call last):
+  File "makeUnipartiteGraph_pro.py", line 50, in <module>
+    for uid in user_links:
+RuntimeError: dictionary changed size during iteration
+532
+There were 0 eliminations with a minimum threshold of 2 votes.
+546
+There were 0 eliminations with a minimum threshold of 2 votes.
+560
+There were 0 eliminations with a minimum threshold of 2 votes.
+574
+There were 0 eliminations with a minimum threshold of 2 votes.
+588
+There were 0 eliminations with a minimum threshold of 2 votes.
+602
+There were 0 eliminations with a minimum threshold of 2 votes.
+616
+There were 0 eliminations with a minimum threshold of 2 votes.
+630
+There were 0 eliminations with a minimum threshold of 2 votes.
+644
+There were 0 eliminations with a minimum threshold of 2 votes.
+658
+There were 0 eliminations with a minimum threshold of 2 votes.
+672
+There were 3 eliminations with a minimum threshold of 2 votes.
+686
+There were 0 eliminations with a minimum threshold of 2 votes.
+700
+There were 0 eliminations with a minimum threshold of 2 votes.
+714
+There were 0 eliminations with a minimum threshold of 2 votes.
+728
+There were 0 eliminations with a minimum threshold of 2 votes.
+742
+There were 0 eliminations with a minimum threshold of 2 votes.
+756
+There were 0 eliminations with a minimum threshold of 2 votes.
+770
+There were 0 eliminations with a minimum threshold of 2 votes.
+784
+There were 0 eliminations with a minimum threshold of 2 votes.
+798
+There were 0 eliminations with a minimum threshold of 2 votes.
+812
