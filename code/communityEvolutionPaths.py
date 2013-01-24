@@ -2,17 +2,14 @@
 	for example: c1-->c0-->c5-->c1-->c1-->c0-->....
 each line in the output is the community in the path at time ti and the probability of coming to that community from the previous community in previous line'''
 import string,sys
-from PARAMETERS import *
-PATH = PATH +"/Results"
-#PATH = "/media/data2/roja/Balatarin/CompleteRun/Results"
-
+#PATH = sys.argv[1]
+#START_TIME =int(sys.argv[2])
+PATH = "/media/data2/roja/Balatarin/CompleteRun/W30S14/Results"
 START_TIME =int(sys.argv[1])
 t = open(PATH+"/EvolutionPaths"+str(START_TIME),"w")
 #t = open(PATH+"/Results/EvolutionPathsTopUsers"+str(START_TIME),"w")
 def getComSize(_date,com):
-	#_date = "1005"+_date.replace("-","")
-	#_date = "1002"+_date.replace("-","")
-	_date = prefix+_date.replace("-","")
+	_date = "1005"+_date.replace("-","")
 	print _date
 	f=open(PATH+"/{0}/communityStats".format(_date),"r") 
 #        f=open(PATH+"/Results/{0}/TopUsercommunityStats".format(_date),"r")

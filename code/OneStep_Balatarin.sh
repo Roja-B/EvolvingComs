@@ -31,22 +31,49 @@ do
 done
 
 # ---- create unipartite graphs
-#mkdir $MYPATH/unipartite
-#index=0
-#while [ $index -le $MAX_INDEX ]
-#do
-#  python makeUnipartiteGraph_pro.py $index $WINDOW_SIZE 
-#  index=$(( $index + SLIDE_AMOUNT ))
-#  echo $index
-#done
-
+mkdir $MYPATH/unipartite
+# unipartite.sh
+index=0
+while [ $index -le $MAX_INDEX ]
+do
+  python makeUnipartiteGraph_pro.py $index $WINDOW_SIZE 
+  index=$(( $index + SLIDE_AMOUNT ))
+  echo $index
+done
 
 # ---- detect communities and save in Results directory
-#mkdir $MYPATH/Results
-#mkdir $MYPATH/Work
-#mv $MYPATH/unipartite/*stats.txt $MYPATH/Work 
+mkdir $MYPATH/Results
+mkdir $MYPATH/Work
+mv $MYPATH/unipartite/*stats.txt $MYPATH/Work 
 # TODO: in the file "prepare4R_NumComsAndModularities.py" used in this script there is a problem with thre prefix assuming it will only take the space before this: [4:12]. this must be corrected 
-#./detectcommunities.sh
+
+#detectcommunities.sh
+bfilenames=$(ls $MYPATH/bipartite/)
+ufilenames=$(ls $MYPATH/unipartite/)
+
+for filename in $ufilenames; do
+        dirname=$(echo $filename | tr -dc "[:digit:]")
+        mkdir $MYPATH/Results/$dirname
+        cp $MYPATH/unipartite/$filename $MYPATH/Results/$dirname/unipartite.txt
+        cp $MYPATH/PARAMETERS.py $MYPATH/Results/$dirname/PARAMETERS
+done
+for filename in $bfilenames; do
+        #dirname=1005$(echo $filename | tr -dc "[:digit:]")  
+        dirname=$PREFIX$(echo $filename | tr -dc "[:digit:]")
+        echo $dirname
+        cp $MYPATH/bipartite/$filename $MYPATH/Results/$dirname/bipartite.txt
+done
+dnames=$(ls $MYPATH/Results/)
+for dname in $dnames; do
+        echo $dname
+        cp *.R $MYPATH/Results/$dname/
+        cd $MYPATH/Results/$dname/
+        R --save < main_balatarin.R
+        rm PARAMETERS
+        cd ../..
+done
+mv $MYPATH/Results/NumComsAndModularities $MYPATH/Work
+
 
 # ---- produce contingency tables between communities at different times and find transition probabilities and evolution paths
 #./paths.sh
