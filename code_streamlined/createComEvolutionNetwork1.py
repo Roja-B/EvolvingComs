@@ -1,8 +1,10 @@
 #PATH = "./Results"
 from PARAMETERS import *
 PATH = PATH + "/Results"
-f = open(PATH+"/ComEvolutions","r")
-t = open(PATH+"/Edgelist_comEvolutions.txt","w")
+#f = open(PATH+"/ComEvolutions","r")
+f = open(PATH+"/ComEvolutions_mutualInfo","r")
+#t = open(PATH+"/Edgelist_comEvolutions.txt","w")
+t = open(PATH+"/Edgelist_comEvolutions_mutualInfo.txt","w")
 time = 1
 # 11062006-11202006     (0,0.571,[0])   (1,0.5,[3])     (2,0.5,[3])     (3,0.476,[2])
 prevLine = f.readline()

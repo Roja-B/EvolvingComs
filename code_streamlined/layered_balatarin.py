@@ -5,7 +5,8 @@ import pygraphviz as pgv
 #SLIDE = 1 # years
 #WINDOW = 2 # years
 
-f1 = open(PATH+"/Results/Edgelist_comEvolutions.txt","r")
+#f1 = open(PATH+"/Results/Edgelist_comEvolutions.txt","r")
+f1 = open(PATH+"/Results/Edgelist_comEvolutions_mutualInfo.txt","r")
 f2 = open(PATH+"/Results/CommunitySizes","r")
 
 G=pgv.AGraph(ranksep='2')
@@ -41,9 +42,9 @@ for line in f1:
 G.graph_attr['outputorder']='edgesfirst'
 G.write(PATH+"/Results/Balafile.dot")
 G.layout(prog='dot')
-G.draw(PATH+'/Results/BalaLayeredNetwork'+'.pdf')
-#G.draw(PATH+'/Results/BalaLayeredNetwork_W'+str(WINDOW)+'S'+str(SLIDE)+MODE+'.pdf')
-
+#G.draw(PATH+'/Results/BalaLayeredNetwork_mutualInfo'+'.pdf')
+G.draw(PATH+'/Results/BalaLayeredNetwork_W'+str(WINDOW_SIZE)+'S'+str(SLIDE_AMOUNT)+'V'+str(VOTE_THRESHOLD)+'mutualInfo.pdf')
+#G.draw(PATH+'/Results/BalaLayeredNetwork_W'+str(WINDOW_SIZE)+'S'+str(SLIDE_AMOUNT)+'V'+str(VOTE_THRESHOLD)+'.pdf')
 f1.close()
 f2.close()
 
