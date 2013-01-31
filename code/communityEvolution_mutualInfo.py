@@ -8,7 +8,7 @@ from PARAMETERS import *
 def consecutiveComs(filename):
         try:f = open(filename, "r")
         except:
-                print "could not find TrProbs",date
+                print "could not find file for ",date
         nextComs = []
         maxprobs = []
         for line in f:
@@ -27,17 +27,18 @@ def consecutiveComs(filename):
 # filenames = os.listdir(PATH+"/TransitionProbs")
 
 dates = []
-f = open(PATH+"/Work/U-pol_J100VT2_stats.txt","r")
+f = open(PATH+"/Work/U-pol_J100VT5_stats.txt","r")
 #f = open(PATH+"/Work/U-pol_L-VT5_stats.txt","r")
 for line in f:
 	line.strip()
 	dates.append(line.split(' ')[0])
 f.close()
-t = open(PATH+"/Results/ComEvolutions","w")
+t = open(PATH+"/Results/ComEvolutions_mutualInfo","w")
 tt = open(PATH+"/Results/Dates","w")
 for date in dates:
 	print date
-	filename = PATH+"/Results/TransitionProbs/TrProbs"+date
+	#filename = PATH+"/Results/TransitionProbs/TrProbs"+date
+	filename = PATH+"/Results/MutInformation/MutualInfo"+date
 	try: [maxprobs,nextComs] = consecutiveComs(filename)
 	except: continue
 	t.write(date+"\t")

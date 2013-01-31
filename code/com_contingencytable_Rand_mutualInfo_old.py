@@ -18,7 +18,7 @@ def contingency(dirname1,dirname2,numComs1,numComs2):
 	PATH2 = PATH + '/' + dirname2
 	filename = PATH+'/ComContingencyTable'+dirname1+'.txt'
 	t = open(filename,"w")
-	y = open(PATH+'DropNextTime'+dirname1,"w")
+#	y = open(PATH+'DropNextTime'+dirname1,"w")
 	if numComs1 == 0 or numComs2 ==0: 
 	        for i in range(max(1,numComs1)):
         	        for j in range(max(1,numComs2)):
@@ -57,18 +57,62 @@ def contingency(dirname1,dirname2,numComs1,numComs2):
 #	for i in range(numComs1+1):
 #                for j in range(numComs2+1):
 	for i in range(numComs1):
-		drop = Cluster[i]
+		drop = Cluster1[i]
 		for j in range(numComs2):
 			drop = drop - Cluster2[j] 
 			numShared = len(intersect(Cluster1[i],Cluster2[j]))
 			t.write(str(numShared)+'\t')
-		y.write(str(len(drop))+'\n')
+		#y.write(str(len(drop))+'\n')
 		t.write('\n')
 #	print len(X1-X2)
 #	print len(X2-X1)
-	y.close()
+	#y.close()
 	t.close()
 	return filename
+# --------------------------------------------------
+def mutualInfo(date,contingencyfilename):
+        f = open(contingencyfilename,"r")
+        n_t1 = []
+        n_t2 = []
+        n = []
+        i = 0
+        for line in f:
+                line = line.strip()
+                n.append([])
+                n[i] = line.split("\t")
+                i += 1
+        M1 = len(n) # no. of communities in clustering1
+        M2 = len(n[0]) # no. of communities in clustering2
+        for i in range(M1):
+                n_t1.append(0)
+                for j in range(M2):
+                        n_t1[i] += int(n[i][j])
+        for j in range(M2):
+                n_t2.append(0)
+                for i in range(M1):
+                        n_t2[j] += int(n[i][j])
+        mutual = []
+        for i in range(M1):
+                mutual.append([])
+                if n_t1[i] == 0 :
+                        for j in range(M2):
+                                mutual[i].append(0)
+                        continue
+                for j in range(M2):
+			if n_t2[j] == 0 :mutual[i].append(0)
+                        else: mutual[i].append(round(float(n[i][j])**2/(n_t1[i]*n_t2[j]),3))
+        print mutual
+        t = open(PATH+"/MutualInfo"+date,"w")
+        for i in range(M1):
+                for j in range(M2):
+                        t.write(str(mutual[i][j])+'\t')
+                t.write('\n')
+        t.close()
+
+
+
+
+
 def rand(date,contingencyfilename):
 	f = open(contingencyfilename,"r")
 	a = []
@@ -151,65 +195,9 @@ def transitionProb(date,contingencyfilename):
         		t.write(str(p[i][j])+'\t')
 		t.write('\n')
         t.close()
-# --------------------------------------------------
-def mutualInfo(date,contingencyfilename):
-        f = open(contingencyfilename,"r")
-        n_t1 = []
-        n_t2 = []
-        n = []
-        i = 0
-
-        for line in f:
-                line = line.strip()
-                n.append([])
-                n[i] = line.split("\t")
-                i += 1
-        M1 = len(n) # no. of communities in clustering1
-        M2 = len(n[0]) # no. of communities in clustering2
-        sum_all1 = 0
-        for i in range(M1):
-                n_t1.append(0)
-                for j in range(M2):
-                        sum_all += int(n[i][j])
-                        n_t1[i] += int(n[i][j])
-        for j in range(M2):
-                n_t2.append(0)
-                for i in range(M1):
-                        n_t2[j] += int(n[i][j])
-
-#print n_t1
-#print n_t2
-        N1 = sum(n_t1)
-	N2 = sum(n_t2)
-        mutual_info = []
-        for i in range(M1):
-                mutual_info.append([])
-                if n_t1[i] == 0 :
-                        for j in range(M2):
-                                mutual_info[i].append(0)
-                        continue
-                for j in range(M2):
-                        p_t1 = float(n_t1[i])/N
-                        p_t2 = float(n_t2[j])/N
-                        joint_p = float(n[i][j])/sum_all
-                        p[i].append(round(joint_p/p_t1,3))
-        print p
-        t = open(PATH+"/MutualInfo"+date,"w")
-        for i in range(M1):
-                for j in range(M2):
-                        t.write(str(p[i][j])+'\t')
-                t.write('\n')
-        t.close()
-
-
-
-
-
-
-
 #----------- main() ---------------
 graphDates = []
-f = open("Work/U-pol_J100VT2_stats.txt","r")
+f = open("Work/U-pol_J100VT5_stats.txt","r")
 #f = open("Work/U-pol_L-VT5_stats.txt","r")
 for line in f:
         graphDate = line.split(" ")[0]
@@ -240,4 +228,5 @@ for i in range(len(graphDates)-1):
 	print date2,num2 
 	contingencyfilename = contingency(dirname1,dirname2,num1,num2)
 #	rand(date1,contingencyfilename)
-	transitionProb(date1,contingencyfilename)
+#	transitionProb(date1,contingencyfilename)
+	mutualInfo(date1,contingencyfilename)

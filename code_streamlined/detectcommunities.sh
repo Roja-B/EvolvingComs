@@ -5,6 +5,7 @@ WINDOW_SIZE=60
 SLIDE_AMOUNT=30
 MYPATH="/media/data2/roja/Balatarin/CompleteRun2"
 DATAPATH="/media/data2/roja/Balatarin/data"
+PREFIX=$VOTE_THRESHOLD
 
 #bfilenames=$(ls /media/data2/roja/Balatarin/CompleteRun/bipartite/)
 #ufilenames=$(ls /media/data2/roja/Balatarin/CompleteRun/unipartite/)

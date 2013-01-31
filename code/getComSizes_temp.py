@@ -1,13 +1,13 @@
 #PATH = "/media/data2/roja/Balatarin/CompleteRun"
 from PARAMETERS import *
-f = open(PATH+"/Work/U-pol_J100VT5_stats.txt","r")
+f = open(PATH+"/Work/U-pol_J100VT2_stats.txt","r")
 t = open(PATH+"/Results/CommunitySizes","w")
 dates=[]
 dirs=[]
 for line in f:
 #    dirs.append("1005"+line.split(" ")[0].replace("-",""))
-#    dirs.append("1002"+line.split(" ")[0].replace("-",""))
-    dirs.append(prefix+line.split(" ")[0].replace("-",""))
+    dirs.append("1002"+line.split(" ")[0].replace("-",""))
+#    dirs.append(prefix+line.split(" ")[0].replace("-",""))
     dates.append(line.split(" ")[0])
 f.close()
 #Open specific repLinks.txt file for each time folder 

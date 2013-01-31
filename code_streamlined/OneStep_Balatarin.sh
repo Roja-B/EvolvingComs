@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash 
 
 # ---- define and save parameters
 MAX_INDEX=1534
@@ -46,7 +46,7 @@ done
 #mkdir $MYPATH/Results
 #mkdir $MYPATH/Work
 #mv $MYPATH/unipartite/*stats.txt $MYPATH/Work 
-# TODO: in the file "prepare4R_NumComsAndModularities.py" used in this script there is a problem with thre prefix assuming it will only take the space before this: [4:12]. this must be corrected 
+## TODO: in the file "prepare4R_NumComsAndModularities.py" used in this script there is a problem with thre prefix assuming it will only take the space before this: [4:12]. this must be corrected 
 #./detectcommunities.sh
 
 # ---- produce contingency tables between communities at different times and find transition probabilities and evolution paths

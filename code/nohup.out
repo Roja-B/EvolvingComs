@@ -1,140 +1,2757 @@
-There were 0 eliminations with a minimum threshold of 2 votes.
-14
-There were 0 eliminations with a minimum threshold of 2 votes.
-28
-There were 0 eliminations with a minimum threshold of 2 votes.
-42
-There were 0 eliminations with a minimum threshold of 2 votes.
-56
-There were 0 eliminations with a minimum threshold of 2 votes.
-70
-There were 0 eliminations with a minimum threshold of 2 votes.
-84
-There were 0 eliminations with a minimum threshold of 2 votes.
-98
-There were 0 eliminations with a minimum threshold of 2 votes.
-112
-There were 0 eliminations with a minimum threshold of 2 votes.
-126
-There were 0 eliminations with a minimum threshold of 2 votes.
-140
-There were 0 eliminations with a minimum threshold of 2 votes.
-154
-There were 0 eliminations with a minimum threshold of 2 votes.
-168
-There were 0 eliminations with a minimum threshold of 2 votes.
-182
-There were 0 eliminations with a minimum threshold of 2 votes.
-196
-There were 0 eliminations with a minimum threshold of 2 votes.
-210
-There were 0 eliminations with a minimum threshold of 2 votes.
-224
-There were 0 eliminations with a minimum threshold of 2 votes.
-238
-There were 0 eliminations with a minimum threshold of 2 votes.
-252
-There were 0 eliminations with a minimum threshold of 2 votes.
-266
-There were 0 eliminations with a minimum threshold of 2 votes.
-280
-There were 0 eliminations with a minimum threshold of 2 votes.
-294
-There were 0 eliminations with a minimum threshold of 2 votes.
-308
-There were 0 eliminations with a minimum threshold of 2 votes.
-322
-There were 0 eliminations with a minimum threshold of 2 votes.
-336
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-350
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-364
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-378
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-392
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-406
-There were 0 eliminations with a minimum threshold of 2 votes.
-420
-There were 0 eliminations with a minimum threshold of 2 votes.
-434
-There were 0 eliminations with a minimum threshold of 2 votes.
-448
-There were 0 eliminations with a minimum threshold of 2 votes.
-462
-There were 0 eliminations with a minimum threshold of 2 votes.
-476
-There were 0 eliminations with a minimum threshold of 2 votes.
-490
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-504
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-518
-Traceback (most recent call last):
-  File "makeUnipartiteGraph_pro.py", line 50, in <module>
-    for uid in user_links:
-RuntimeError: dictionary changed size during iteration
-532
-There were 0 eliminations with a minimum threshold of 2 votes.
-546
-There were 0 eliminations with a minimum threshold of 2 votes.
-560
-There were 0 eliminations with a minimum threshold of 2 votes.
-574
-There were 0 eliminations with a minimum threshold of 2 votes.
-588
-There were 0 eliminations with a minimum threshold of 2 votes.
-602
-There were 0 eliminations with a minimum threshold of 2 votes.
-616
-There were 0 eliminations with a minimum threshold of 2 votes.
-630
-There were 0 eliminations with a minimum threshold of 2 votes.
-644
-There were 0 eliminations with a minimum threshold of 2 votes.
-658
-There were 0 eliminations with a minimum threshold of 2 votes.
-672
-There were 3 eliminations with a minimum threshold of 2 votes.
-686
-There were 0 eliminations with a minimum threshold of 2 votes.
-700
-There were 0 eliminations with a minimum threshold of 2 votes.
-714
-There were 0 eliminations with a minimum threshold of 2 votes.
-728
-There were 0 eliminations with a minimum threshold of 2 votes.
-742
-There were 0 eliminations with a minimum threshold of 2 votes.
-756
-There were 0 eliminations with a minimum threshold of 2 votes.
-770
-There were 0 eliminations with a minimum threshold of 2 votes.
-784
-There were 0 eliminations with a minimum threshold of 2 votes.
-798
-There were 0 eliminations with a minimum threshold of 2 votes.
-812
+10020101200701312007
+10020111201002102010
+cp: cannot create regular file `./Results/10020111201002102010/bipartite.txt': No such file or directory
+10020112200902112009
+cp: cannot create regular file `./Results/10020112200902112009/bipartite.txt': No such file or directory
+10020114200802132008
+10020115200702142007
+10020125201002242010
+cp: cannot create regular file `./Results/10020125201002242010/bipartite.txt': No such file or directory
+10020126200902252009
+cp: cannot create regular file `./Results/10020126200902252009/bipartite.txt': No such file or directory
+10020128200802272008
+10020129200702282007
+10020208201003102010
+cp: cannot create regular file `./Results/10020208201003102010/bipartite.txt': No such file or directory
+10020209200903112009
+cp: cannot create regular file `./Results/10020209200903112009/bipartite.txt': No such file or directory
+10020211200803122008
+10020212200703142007
+10020222201003242010
+cp: cannot create regular file `./Results/10020222201003242010/bipartite.txt': No such file or directory
+10020223200903252009
+cp: cannot create regular file `./Results/10020223200903252009/bipartite.txt': No such file or directory
+10020225200803262008
+10020226200703282007
+10020308201004072010
+cp: cannot create regular file `./Results/10020308201004072010/bipartite.txt': No such file or directory
+10020309200904082009
+cp: cannot create regular file `./Results/10020309200904082009/bipartite.txt': No such file or directory
+10020310200804092008
+10020312200704112007
+10020322201004212010
+cp: cannot create regular file `./Results/10020322201004212010/bipartite.txt': No such file or directory
+10020323200904222009
+cp: cannot create regular file `./Results/10020323200904222009/bipartite.txt': No such file or directory
+10020324200804232008
+10020326200704252007
+10020405201005052010
+cp: cannot create regular file `./Results/10020405201005052010/bipartite.txt': No such file or directory
+10020406200905062009
+cp: cannot create regular file `./Results/10020406200905062009/bipartite.txt': No such file or directory
+10020407200805072008
+10020409200705092007
+10020419201005192010
+cp: cannot create regular file `./Results/10020419201005192010/bipartite.txt': No such file or directory
+10020420200905202009
+cp: cannot create regular file `./Results/10020420200905202009/bipartite.txt': No such file or directory
+10020421200805212008
+10020423200705232007
+10020503201006022010
+cp: cannot create regular file `./Results/10020503201006022010/bipartite.txt': No such file or directory
+10020504200906032009
+cp: cannot create regular file `./Results/10020504200906032009/bipartite.txt': No such file or directory
+10020505200806042008
+10020507200706062007
+10020517201006162010
+cp: cannot create regular file `./Results/10020517201006162010/bipartite.txt': No such file or directory
+10020518200906172009
+cp: cannot create regular file `./Results/10020518200906172009/bipartite.txt': No such file or directory
+10020519200806182008
+10020521200706202007
+10020531201006302010
+cp: cannot create regular file `./Results/10020531201006302010/bipartite.txt': No such file or directory
+10020601200907012009
+cp: cannot create regular file `./Results/10020601200907012009/bipartite.txt': No such file or directory
+10020602200807022008
+10020604200707042007
+10020614201007142010
+cp: cannot create regular file `./Results/10020614201007142010/bipartite.txt': No such file or directory
+10020615200907152009
+cp: cannot create regular file `./Results/10020615200907152009/bipartite.txt': No such file or directory
+10020616200807162008
+10020618200707182007
+10020628201007282010
+cp: cannot create regular file `./Results/10020628201007282010/bipartite.txt': No such file or directory
+10020629200907292009
+cp: cannot create regular file `./Results/10020629200907292009/bipartite.txt': No such file or directory
+10020630200807302008
+10020702200708012007
+10020712201008112010
+cp: cannot create regular file `./Results/10020712201008112010/bipartite.txt': No such file or directory
+10020713200908122009
+cp: cannot create regular file `./Results/10020713200908122009/bipartite.txt': No such file or directory
+10020714200808132008
+10020716200708152007
+10020726201008252010
+cp: cannot create regular file `./Results/10020726201008252010/bipartite.txt': No such file or directory
+10020727200908262009
+cp: cannot create regular file `./Results/10020727200908262009/bipartite.txt': No such file or directory
+10020728200808272008
+10020730200708292007
+10020809201009082010
+cp: cannot create regular file `./Results/10020809201009082010/bipartite.txt': No such file or directory
+10020810200909092009
+cp: cannot create regular file `./Results/10020810200909092009/bipartite.txt': No such file or directory
+10020811200809102008
+10020813200709122007
+10020814200609132006
+10020823201009222010
+cp: cannot create regular file `./Results/10020823201009222010/bipartite.txt': No such file or directory
+10020824200909232009
+cp: cannot create regular file `./Results/10020824200909232009/bipartite.txt': No such file or directory
+10020825200809242008
+10020827200709262007
+10020828200609272006
+10020906201010062010
+cp: cannot create regular file `./Results/10020906201010062010/bipartite.txt': No such file or directory
+10020907200910072009
+cp: cannot create regular file `./Results/10020907200910072009/bipartite.txt': No such file or directory
+10020908200810082008
+10020910200710102007
+10020911200610112006
+10020920201010202010
+cp: cannot create regular file `./Results/10020920201010202010/bipartite.txt': No such file or directory
+10020921200910212009
+cp: cannot create regular file `./Results/10020921200910212009/bipartite.txt': No such file or directory
+10020922200810222008
+10020924200710242007
+10020925200610252006
+10021004201011032010
+cp: cannot create regular file `./Results/10021004201011032010/bipartite.txt': No such file or directory
+10021005200911042009
+cp: cannot create regular file `./Results/10021005200911042009/bipartite.txt': No such file or directory
+10021006200811052008
+10021008200711072007
+10021009200611082006
+10021018201011172010
+cp: cannot create regular file `./Results/10021018201011172010/bipartite.txt': No such file or directory
+10021019200911182009
+cp: cannot create regular file `./Results/10021019200911182009/bipartite.txt': No such file or directory
+10021020200811192008
+10021022200711212007
+10021023200611222006
+10021102200912022009
+cp: cannot create regular file `./Results/10021102200912022009/bipartite.txt': No such file or directory
+10021103200812032008
+10021105200712052007
+10021106200612062006
+10021116200912162009
+cp: cannot create regular file `./Results/10021116200912162009/bipartite.txt': No such file or directory
+10021117200812172008
+cp: cannot create regular file `./Results/10021117200812172008/bipartite.txt': No such file or directory
+10021119200712192007
+10021120200612202006
+10021130200912302009
+cp: cannot create regular file `./Results/10021130200912302009/bipartite.txt': No such file or directory
+10021201200812312008
+cp: cannot create regular file `./Results/10021201200812312008/bipartite.txt': No such file or directory
+10021203200701022008
+10021204200601032007
+10021214200901132010
+cp: cannot create regular file `./Results/10021214200901132010/bipartite.txt': No such file or directory
+10021215200801142009
+cp: cannot create regular file `./Results/10021215200801142009/bipartite.txt': No such file or directory
+10021217200701162008
+10021218200601172007
+10021228200901272010
+cp: cannot create regular file `./Results/10021228200901272010/bipartite.txt': No such file or directory
+10021229200801282009
+cp: cannot create regular file `./Results/10021229200801282009/bipartite.txt': No such file or directory
+10021231200701302008
+1002
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+Error in read.graph.ncol(file, ...) : 
+  At foreign.c:228 : Parse error in NCOL file, line 1 (syntax error), Parse error
+Calls: read.graph -> read.graph.ncol -> .Call
+Execution halted
+10020101200701312007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]   8 788 457
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020114200802132008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 586 621 451
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020115200702142007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 456 365 422
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020128200802272008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 963 579 597
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020129200702282007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 278 346 312
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020211200803122008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 918 917 675
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020212200703142007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 280 243 344
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020225200803262008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1081 1586
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020226200703282007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 566 359
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020310200804092008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1654 1037
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020312200704112007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 355 378 331
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020324200804232008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  569 1087 1180
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020326200704252007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]   9 476 683
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020407200805072008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 1079 1146  864
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020409200705092007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 679 519  90
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020421200805212008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 2071 1038
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020423200705232007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 284 744 406
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020505200806042008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1228 1856
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020507200706062007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 590 467 452
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020519200806182008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1927 1076
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020521200706202007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1063  611
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020602200807022008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  858 1225  950
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020604200707042007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 739 599 541
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020616200807162008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 1572  647  924
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020618200707182007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]    7 1209  702
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020630200807302008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]    9 1942 1120
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020702200708012007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1208  687
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020714200808132008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  596 1031 1294
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020716200708152007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+Error in read.graph.ncol(file, ...) : 
+  At rinterface.c:3941 : Cannot read edgelist, File operation error
+Calls: read.graph -> read.graph.ncol -> .Call
+Execution halted
+10020728200808272008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1904 1041
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020730200708292007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  593 1079  366
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020811200809102008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  966  912 1080
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020813200709122007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]   27  793 1107
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020814200609132006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 4"
+[1] "Community sizes = "
+[1] 17 14 14 14
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020825200809242008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  889  892 1205
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020827200709262007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 505 866 669
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020828200609272006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  9 10 11
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020908200810082008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1933 1115
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020910200710102007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 631 626 771
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020911200610112006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]  9 11 14
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020922200810222008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 2198 1046
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020924200710242007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1226  795
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10020925200610252006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 27 17 18
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021006200811052008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 4"
+[1] "Community sizes = "
+[1]  686  770 1154  805
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021008200711072007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1135  800
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021009200611082006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 14 42 48
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021020200811192008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1739 1916
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021022200711212007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1183  693
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021023200611222006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 93  9 69
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021103200812032008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+Error in read.graph.ncol(file, ...) : 
+  At foreign.c:228 : Parse error in NCOL file, line 298828 (syntax error), Parse error
+Calls: read.graph -> read.graph.ncol -> .Call
+Execution halted
+10021105200712052007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1] 1079  749
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021106200612062006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 104  51 168
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021119200712192007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1]  749 1011
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021120200612202006
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1]   3 286 345
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+Error in match(x, table, nomatch = 0L) : object 'Gi' not found
+Calls: vertexwrite -> write -> cat -> V -> is.igraph -> %in% -> match
+Execution halted
+10021203200701022008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 2"
+[1] "Community sizes = "
+[1]  640 1060
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021204200601032007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 305 515   2
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021217200701162008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+Error in read.graph.ncol(file, ...) : 
+  At rinterface.c:3941 : Cannot read edgelist, File operation error
+Calls: read.graph -> read.graph.ncol -> .Call
+Execution halted
+10021218200601172007
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 382 310 210
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 
+10021231200701302008
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
+> 
+> 
+> PATH = "/media/data2/roja/Balatarin/CompleteRun/Results/"
+> #source("PARAMETERS")
+> library(igraph)
+> # read graph from file
+> G<-read.graph("unipartite.txt", format="ncol")
+> # cluster the base graph and save membership information
+> source("clustergraph.R")
+> results <- clustergraph(G)
+[1] "Number of detected communities= 3"
+[1] "Community sizes = "
+[1] 593 373 661
+> memberships <- list(membership=results$membership,csize=results$csize)
+> modularity <- results[3]
+> # save the names of vertices belonging to each cluster in a separate file.
+> N= length(memberships$csize)
+> source("vertexwrite.R")
+> vertexwrite(memberships,G,'memberships')
+> write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+> 
+> 

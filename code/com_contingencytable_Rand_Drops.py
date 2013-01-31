@@ -24,6 +24,7 @@ def contingency(dirname1,dirname2,numComs1,numComs2):
         	        for j in range(max(1,numComs2)):
                         	t.write('0\t')
                		t.write('\n')
+		t.close()
 		return filename
 
 	#w = open(PATH+'/linkVoteCounts.txt',"w")

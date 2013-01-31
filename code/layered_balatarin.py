@@ -5,7 +5,7 @@ import pygraphviz as pgv
 #SLIDE = 1 # years
 #WINDOW = 2 # years
 
-f1 = open(PATH+"/Results/Edgelist_comEvolutions.txt","r")
+f1 = open(PATH+"/Results/Edgelist_comEvolutions_mutualInfo.txt","r")
 f2 = open(PATH+"/Results/CommunitySizes","r")
 
 G=pgv.AGraph(ranksep='2')
@@ -21,7 +21,7 @@ for line in f1:
 	line = line.strip()
 	node1 = line.split()[0]
 	node2 = line.split()[1]
-	edgeWeight = str(10*float(line.split()[2]))
+	edgeWeight = str(80*float(line.split()[2]))
 #	print node1
 	if node1 not in nodesizes.keys(): nodesizes[node1] = 3
         if node2 not in nodesizes.keys(): nodesizes[node2] = 3

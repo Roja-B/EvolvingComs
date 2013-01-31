@@ -1,7 +1,7 @@
 # Important Note: Arrays in R are labeled from 1 to n, but vertices in igraph are labled from 0 to n-1. This means V(G)[0]$name = V(G)$name[1]
 
 
-#PATH = "/media/data2/roja/Balatarin/CompleteRun2/Results/"
+#PATH = "/media/data2/roja/Balatarin/CompleteRun3/Results/"
 source("PARAMETERS")
 library(igraph)
 # read graph from file
@@ -15,5 +15,5 @@ modularity <- results[3]
 N= length(memberships$csize)
 source("vertexwrite.R")
 vertexwrite(memberships,G,'memberships')
-write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
+write(c(getwd(),N,modularity[[1]]),file=paste(PATH,"/Results/NumComsAndModularities",sep=""),ncolumns=3,append=TRUE)
 
