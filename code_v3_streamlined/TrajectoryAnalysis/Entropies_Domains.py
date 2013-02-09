@@ -1,15 +1,16 @@
 
 import sys, math
 from collections import defaultdict
-PATH = "/media/data3/roja/Balatarin/CompleteRun/TrajectoryAnalysis/Domains/NoLowVotes"
-
+from PARAMETERS import *
+#PATH = "/media/data3/roja/Balatarin/CompleteRun/TrajectoryAnalysis/Domains/"
 #PATH = "./test/RepLinkDomains"
 #PATH = "./randomDomains/random"
 #M = 3000
 
 
 #colors = ["E","Pink","Red","Black","Blue","Green"]
-TrajectoryNames = ["A","B","Bprime","B1","B1prime","E","Eprime","C","C0","D2","D2prime","D","F"]
+#TrajectoryNames = ["A","B","Bprime","B1","B1prime","E","Eprime","C","C0","D2","D2prime","D","F"]
+TrajectoryNames = ["A","B","Bprime","B1prime","E","Eprime","C","D1","D1prime","D2","D2prime","D","F","Small"]
 
 for name in TrajectoryNames:
 	print name,"Random"

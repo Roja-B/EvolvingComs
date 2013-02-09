@@ -16,7 +16,7 @@ for name in TrajectoryNames:
 		except: 
 			print line
 			break
-		date = "Results/10"+date+"/RelevantLinks_h/topLinks"+com
+		date = "Results/1005"+date+"/RelevantLinks_h/topLinks"+com
 		t.write(date+'\n')
 #		print date
 	f.close()

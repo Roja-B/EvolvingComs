@@ -18,7 +18,7 @@ for name in TrajectoryNames:
     for line in f1:
         myPATH = line.strip()
         #print myPATH
-	t.write(myPATH+'\n')
+	#t.write(myPATH+'\n')
         try: f2 = open(myPATH,"r")
         except: 
             print "could not open",myPATH
