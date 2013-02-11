@@ -23,9 +23,9 @@ f.close()
 #PATH = "./randomDomains/random"
 #M = 3000
 
-pathfile = open(PATH+"/Unigrams/PATHSplusCOMS","r")
+pathfile = open(PATH+"/Work/NumComsAndModularities","r")
 for p in pathfile:
-	L = p.strip().split("\t")
+	L = p.strip().split()
 	myPATH = L[0]
 	M = int(L[1])
 	for i in range(M):

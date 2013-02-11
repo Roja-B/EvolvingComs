@@ -12,18 +12,9 @@ for line in f:
 f.close()
 
 
-#PATH = sys.argv[1]
-#dirname = sys.argv[2]
-#PATH = PATH+'/'+dirname
-#M = int(sys.argv[3]) # number of communities
-
-#PATH = "./test/RepLinkDomains"
-#PATH = "./randomDomains/random"
-#M = 3000
-
-pathfile = open(PATH+"/Unigrams/PATHSplusCOMS","r")
+pathfile = open(PATH+"/Work/NumComsAndModularities","r")
 for p in pathfile:
-	myPATH = p.split('\t')[0]
+	myPATH = p.split()[0]
 	f = open(myPATH+"/links.txt","r")
 	t = open(myPATH+"/linkTexts","w")
 	for line in f:

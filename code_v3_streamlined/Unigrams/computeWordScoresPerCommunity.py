@@ -10,11 +10,11 @@ import operator
 from PARAMETERS import *
 
 stopwords = open("stopwordList").read()
-pathfile = open("PATHSplusCOMS","r")
+pathfile = open(PATH+"/Work/NumComsAndModularities","r")
 
 
 for p in pathfile:
-        p = p.strip().split("\t")
+        p = p.strip().split()
 	myPATH = p[0]
 	M = int(p[1])
 

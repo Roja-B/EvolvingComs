@@ -3,10 +3,10 @@ from counter import *
 from noPunct import *
 from PARAMETERS import *
 
-f = open(PATH+"/Unigrams/PATHSplusCOMS","r")
+f = open(PATH+"/Work/NumComsAndModularities","r")
 
 for line in f:
-	myPATH = line.split('\t')[0]
+	myPATH = line.split()[0]
 	combineWords(myPATH+"/normalizedlinkTexts")
 	filename = noPunct(myPATH+"/normalizedlinkTextsCombined")
 	wordFreq = wordCounts(filename)

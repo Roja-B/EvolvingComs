@@ -1,6 +1,6 @@
 #!/bin/sh -e 
 #TODO: parameters are repeated
-MYPATH="/media/data2/roja/Balatarin/CompleteRun2"
+MYPATH="/media/data2/roja/Balatarin/CompleteRun"
 DATAPATH="/media/data2/roja/Balatarin/Data"
 
 

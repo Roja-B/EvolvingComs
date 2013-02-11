@@ -1,4 +1,4 @@
-1) run ./paths_to_files.sh to create a list of all paths for time windows
+1) SKIP THIS (it creates a bug and is redundant): run ./paths_to_files.sh to create a list of all paths for time windows
 
 to get the total counts:
 run python totalWords.py
