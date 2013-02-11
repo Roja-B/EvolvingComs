@@ -5,11 +5,11 @@ from counter import *
 from noPunct import *
 from PARAMETERS import *
 MAXLINKS = 50
-f = open(DATAPATH+"/politics_linkTexts")
+f = open(DATAPATH+"/linkTexts.txt")
 
 linkText = dict()
 for line in f:
-        link_id = line.split("_")[0].strip()
+        link_id = line.split("\t")[0].strip()
         linkText[link_id] = line
 f.close()
 
