@@ -1,4 +1,4 @@
- # Program that extracts the users and links of a particular category and writes them to a new file
+# Program that extracts the users and links of a particular category and writes them to a new file
 # Two files:
 # links-summary.txt
 # votes-summary.txt
@@ -21,6 +21,7 @@
 import time
 import sys
 import datetime
+from PARAMETERS import *
 sDelta = sys.argv[1]  # start date from first
 eDelta = sys.argv[2]  # in days
 # start (s) end (e)
@@ -29,13 +30,13 @@ startDate = first + datetime.timedelta(days=int(sDelta))
 endDate = startDate + datetime.timedelta(days=int(eDelta))
 
 print startDate
-PATH = "/media/data2/roja/Balatarin"
+#PATH = "/media/data2/roja/Balatarin"
 sDate = startDate.isoformat().split('T')[0].split('-')
 eDate = endDate.isoformat().split('T')[0].split('-')
-bgraphname = "bipartite_politics_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
-l = open(PATH+"/data/links-politics.txt","r")
-v = open(PATH+"/data/votes-summary.txt","r")
-h = open(PATH+"/CompleteRun/bipartite/"+bgraphname+".txt","w")
+bgraphname = "bipartite_"+category+"_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
+l = open(DATAPATH+"/links-"+category+".txt","r")
+v = open(DATAPATH+"/votes-summary.txt","r")
+h = open(PATH+"/bipartite/"+bgraphname+".txt","w")
 print "1"
 links = set()
 for line in l:
@@ -60,7 +61,7 @@ for line in v:
 	if date > endDate: continue
 	if date < startDate: continue
 	link_id = line.split()[1]               # id = link_id
-	if link_id in links_set:
+	if link_id in links:
 		graph_list.append((line.split()[2],link_id))   # (user_id, link_id)
 graph_list.sort() 					# sorts by user_id
 N = len(graph_list)

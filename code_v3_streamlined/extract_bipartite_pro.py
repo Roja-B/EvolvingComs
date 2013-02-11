@@ -30,8 +30,8 @@ print startDate
 #PATH = "/media/data2/roja/Balatarin"
 sDate = startDate.isoformat().split('T')[0].split('-')
 eDate = endDate.isoformat().split('T')[0].split('-')
-bgraphname = "bipartite_politics_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
-l = open(DATAPATH+"/links-politics.txt","r")
+bgraphname = "bipartite_"+category+"_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
+l = open(DATAPATH+"/links-"+category+".txt","r")
 v = open(DATAPATH+"/votes-summary.txt","r")
 h = open(PATH+"/bipartite/"+bgraphname+".txt","w")
 print "1"

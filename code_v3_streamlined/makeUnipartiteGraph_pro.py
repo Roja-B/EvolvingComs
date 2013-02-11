@@ -24,7 +24,7 @@ startDate = first + datetime.timedelta(days=int(sDelta))
 endDate = startDate + datetime.timedelta(days=int(eDelta))
 sDate = startDate.isoformat().split('T')[0].split('-')
 eDate = endDate.isoformat().split('T')[0].split('-')
-bgraphname = "bipartite_politics_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
+bgraphname = "bipartite_"+category+"_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
 #ugraphname = "U-pol_J"+str(coefficient)+"VT"+str(voteThreshold)+"_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
 ugraphname = "U-pol_JVT"+str(VOTE_THRESHOLD)+"_"+sDate[1]+sDate[2]+sDate[0]+'-'+eDate[1]+eDate[2]+eDate[0]
 
@@ -76,7 +76,7 @@ for i in range(numUsers):
 		edges = edges+1
 if numUsers > 0:
 	combinations = nCr(numUsers,2)
-	eDensity = round(edges/combinations,sigDigit)
+	eDensity = round(edges/float(combinations),sigDigit)
 else:
 	combinations = 0
 	eDensity = 0
